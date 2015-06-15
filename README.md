@@ -1,5 +1,9 @@
 # loopback-component-oauth2
 
+
+Forked original repo at [2.0.0-rc3](https://github.com/strongloop/loopback-component-oauth2/commit/2422c47d9a80928c895200cafc170dc86b184fe0)
+due to licence change to Strongloop.
+
 The LoopBack oAuth 2.0 component provides full integration between [OAuth 2.0](http://tools.ietf.org/html/rfc6749)
 and [LoopBack](http://loopback.io). It enables LoopBack applications to function
 as an oAuth 2.0 provider to authenticate and authorize client applications and/or
