@@ -19,7 +19,7 @@ See [LoopBack Documentation - OAuth 2.0 Component](http://docs.strongloop.com/di
 Install the component from this fork:
 
 ```
-$ npm install https://github.com/ticadia/loopback-oauth2orize/tarball/v2.2.0
+$ npm install loopback-oauth2orize
 ```
 
 Or add to package.json directly:
