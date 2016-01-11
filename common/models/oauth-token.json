@@ -5,7 +5,12 @@
     "id": {
       "type": "string",
       "id": true,
-      "generated": false
+      "generated": false,
+      "mysql" : {
+        "columnName": "id",
+        "dataType": "VARCHAR",
+        "dataLength": 512
+      }
     },
     "appId": {
       "type": "string",
